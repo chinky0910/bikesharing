@@ -4,7 +4,7 @@
 ### Project Overview
 #### Purpose
 For this project I am creating data visualization with Tableau for bike sharing program in New York City. The idea is to analyze the data, see the mechanics of the business and figure out how the bike share business actually works in NYC. This is the first step of expanding the idea to other cities. With a strong and clear story, backed-up by data we can create a proposal on how the business could work in other cities as well.
-
+The Tableau story of the NYC CitiBike can be found in the following link: https://public.tableau.com/app/profile/chinky7490/viz/NYCCitiBike_16497425385170/NYCCitiBike
 #### Background
 Tableau is one of the most popular tools for data visualization in today’s professional world. It allows data visualization professionals to create data stories that are visually appealing and easy to understand for a non-technical audience. Moreover, Tableau provides the tool to create powerful analytic dashboards and tell a clear story that can be easily shared with others. Tableau can be simple, requiring little-to-no-coding, or quite complex, requiring some experience to write custom code in so-called calculated field. For this project I am using:
 
